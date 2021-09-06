@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import logo from './logo.svg'
 
 function App() {
   return (
@@ -13,13 +13,12 @@ function App() {
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+          rel="noopener noreferrer">
+          ITSS in Japanese 1 with Firebase
         </a>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
